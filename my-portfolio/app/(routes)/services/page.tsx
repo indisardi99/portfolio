@@ -1,5 +1,3 @@
-import AvatarServices from "@/components/avatar-services";
-import CircleImage from "@/components/circle-image";
 import SliderServices from "@/components/slider-services";
 import TransitionPage from "@/components/transition-page";
 import "swiper/css";

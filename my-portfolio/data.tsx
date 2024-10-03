@@ -175,18 +175,18 @@ export const serviceData = [
 export const dataPortfolio = [
   {
     id: 1,
-    title: "Web for reservations",
+    title: "Sistema de reservas",
     image: "/image-1.png",
     urlGithub: "https://github.com/indisardi99/front-hotel-app",
     urlDemo: "https://front-hotel-app-six.vercel.app",
   },
-  // {
-  //   id: 2,
-  //   title: "Desarrollo Web Ágil",
-  //   image: "/image-2.jpg",
-  //   urlGithub: "#!",
-  //   urlDemo: "#!",
-  // },
+  {
+    id: 2,
+    title: "Este portafolio",
+    image: "/image-2.png",
+    urlGithub: "https://github.com/indisardi99/portfolio",
+    urlDemo: "https://portfolio-pi-henna-20.vercel.app/",
+  },
   // {
   //   id: 3,
   //   title: "Estrategias Web",
